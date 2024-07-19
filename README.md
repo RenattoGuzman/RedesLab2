@@ -1,7 +1,7 @@
 # RedesLab2
 
-Renatto Esteban Guzmán Sosa 21646
-Herber Sebastián Silva Muñoz [carné]
+- Renatto Esteban Guzmán Sosa 21646
+- Herber Sebastián Silva Muñoz [carné]
  
 ## Archivos
 
